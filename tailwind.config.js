@@ -11,6 +11,9 @@ module.exports = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+        "custom":["Roboto","sans-serif"]
+      }
     },
   },
   plugins: [],
